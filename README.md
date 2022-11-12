@@ -1,2 +1,2 @@
-# bungeecord
-BungeeCord plugins
+# BungeeCord
+BungeeCord or Bukkit etc. Minecraft plugins
