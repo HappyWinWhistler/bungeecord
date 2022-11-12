@@ -1,2 +1,2 @@
 # bungeecord
-BungeeCord
+BungeeCord plugins
